@@ -12,7 +12,7 @@ the Diamond-Dybvig (1983) framework with:
 - Observable queue size at decision time
 - SARSA(λ) reinforcement learning for policy optimization
 
-Authors: Pedro P. Romero & Maciej M. Latek
+Author: Pedro P. Romero
 Python Implementation for GitHub/Colab
 
 Usage:

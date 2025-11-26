@@ -10,7 +10,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="bank_run_abm",
     version="1.0.0",
-    author="Pedro P. Romero & Maciej M. Latek",
+    author="Pedro P. Romero",
     author_email="promero@gmu.edu",
     description="Agent-based computational model of bank runs based on Diamond-Dybvig",
     long_description=long_description,
@@ -63,8 +63,7 @@ setup(
         "financial modeling",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/bank_run_abm/issues",
-        "Source": "https://github.com/yourusername/bank_run_abm",
-        "Paper": "https://doi.org/your-paper-doi",
+        "Bug Reports": "https://github.com/promeroec/bank_run_abm/issues",
+        "Source": "https://github.com/promeroec/bank_run_abm",
     },
 )

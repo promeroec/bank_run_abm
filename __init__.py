@@ -29,7 +29,7 @@ For experiments replicating paper results:
 """
 
 __version__ = "1.0.0"
-__author__ = "Pedro P. Romero & Maciej M. Latek"
+__author__ = "Pedro P. Romero"
 
 from .bank_run_model import (
     # Core classes
